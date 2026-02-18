@@ -1,3 +1,9 @@
+live demo 
+https://featureengineeringagent-mxfedphhbyycqpdfttqr2p.streamlit.app/
+
+[Ekran kaydı - 2026-02-18 12-51-57.webm](https://github.com/user-attachments/assets/5e6a7ed2-3d81-4aad-8ee8-f3fee6d9a5b2)
+
+
 # 🛠️ FeatureForge: FeatureEngineeringAgent (v10.1.7)
 
 ### *The "Masterpiece Edition" Data Transformation Engine*
